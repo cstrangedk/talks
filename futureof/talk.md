@@ -1,15 +1,12 @@
-<!-- been involved with blockchain and token economy since 2015, facts about me -->
 #### Chadwick Strange
-<!-- - [nytimes.com/by/adam-pearce](https://www.nytimes.com/by/adam-pearce) -->
 - Berkeley-Haas MBA
 - [@chadwickstrange](https://twitter.com/chadwickstrange)
 
-![](img/UC-Berkeley-Haas-2.jpg)
+![](img/UC-Berkeley-Haas-2.jpg) <!-- .element height="50%" width="50%" -->
 
 
 #### Chadwick Strange
-<!-- - [nytimes.com/by/adam-pearce](https://www.nytimes.com/by/adam-pearce) -->
-- BoostVC Tribe9 alum
+- BoostVC Tribe9
 - [@chadwickstrange](https://twitter.com/chadwickstrange)
 
 ![](img/boostvc-tribe9.jpeg)
